@@ -31,7 +31,7 @@ I like turning ideas into real, working projects — and I try to build every pr
 
 ### 🚀 Featured Project
 
-<a href="https://github.com/MudasirManzoor4461/YOUR-REPO-NAME">
+<a href="https://github.com/MudasirManzoor4461/Student_Management_System">
   <img align="left" src="https://github-readme-stats.shion.dev/api/pin/?username=MudasirManzoor4461&repo=YOUR-REPO-NAME&theme=dark&hide_border=false" />
 </a>
 
