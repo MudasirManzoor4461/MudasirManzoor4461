@@ -33,7 +33,7 @@ I like turning ideas into real, working projects — and I try to build every pr
 ### 🚀 Featured Project
 
 <a href="https://github.com/MudasirManzoor4461/Student_Management_System">
-  <img align="left" src="https://github-readme-stats.shion.dev/api/pin/?username=MudasirManzoor4461&repo=YOUR-REPO-NAME&theme=dark&hide_border=false" />
+  <img align="left" src="https://github-readme-stats.shion.dev/api/pin/?username=MudasirManzoor4461&repo=Student_Management_System&theme=dark&hide_border=false" />
 </a>
 
 **Student Management System** — A Python CRUD application built with a layered architecture (service + repository layers), custom exception handling, input validation, logging, and a 26-test Pytest suite covering unit & integration tests.
