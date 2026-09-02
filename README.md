@@ -18,10 +18,11 @@
 I'm a **BS Computer Science** student who enjoys building software that is clean, well-structured, and actually works the way it's supposed to.
 
 My focus right now is on:
-- 🐍 **Python** & Object-Oriented Programming
-- 🧮 Data Structures & Algorithms
-- 🏗️ Software architecture (layered design, separation of concerns)
-- 🧪 Writing testable, maintainable code
+
+* 🐍 **Python** & Object-Oriented Programming
+* 🧮 Data Structures & Algorithms
+* 🏗️ Software architecture (layered design, separation of concerns)
+* 🧪 Writing testable, maintainable code
 
 I like turning ideas into real, working projects — and I try to build every project the way I'd want to find it if someone else had to read or extend my code later.
 
@@ -43,11 +44,13 @@ I like turning ideas into real, working projects — and I try to build every pr
 
 ### 🛠️ Tech Stack
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge\&logo=FastAPI\&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge\&logo=pytest\&logoColor=2f9fe3)
 
 ---
 
